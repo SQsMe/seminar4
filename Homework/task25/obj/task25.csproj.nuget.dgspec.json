@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Seminar4.csproj": {}
+    "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Homework\\task25\\task25.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Seminar4.csproj": {
+    "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Homework\\task25\\task25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Seminar4.csproj",
-        "projectName": "Seminar4",
-        "projectPath": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Seminar4.csproj",
+        "projectUniqueName": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Homework\\task25\\task25.csproj",
+        "projectName": "task25",
+        "projectPath": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Homework\\task25\\task25.csproj",
         "packagesPath": "C:\\Users\\SQsMe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\obj\\",
+        "outputPath": "C:\\Users\\SQsMe\\Desktop\\Seminar4\\Homework\\task25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SQsMe\\AppData\\Roaming\\NuGet\\NuGet.Config"
